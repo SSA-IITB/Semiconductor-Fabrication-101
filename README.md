@@ -1,6 +1,6 @@
 # Semiconductor-Fabrication-101
 
-**Semiconductor-Fabrication-101** is an introductory winter course designed to give students a clear and practical understanding of **how chips are actually fabricated** inside world-class semiconductor foundries such as **TSMC, GlobalFoundries, Intel, Samsung, and Texas Instruments**, jointly taught by Purdue University and supported by SemiX IIT Bombay.
+**Semiconductor-Fabrication-101** is an introductory winter course designed to give students a clear and practical understanding of **how chips are actually fabricated** inside world-class semiconductor foundries such as **TSMC, GlobalFoundries, Intel, Samsung, and Texas Instruments**, jointly taught by **Purdue University** and supported by **SemiX IIT Bombay**.
 
 ## What This Course Covers
 
