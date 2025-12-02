@@ -10,7 +10,6 @@
 - Cleanroom operations and contamination control  
 - Fab workflow, process integration, and module sequencing  
 - Scaling, yield improvement, and advanced node manufacturing  
-- Intro to process simulation tools and real fabrication case studies  
 
 ## Learning Outcomes
 
