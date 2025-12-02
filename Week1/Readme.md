@@ -10,6 +10,8 @@ Note- 20 percent weightage will be given to handwritten notes of whole course fo
 
 [Transistor- Lec0](https://youtu.be/_PELtLdh87Y?si=ZNekV9uzkiLjaO-3)
 
+[Doping](https://youtu.be/oC--fQr6ovM?si=bmamhMhu26tggCGF)
+
 [Inside the Fab Unit](https://youtu.be/dX9CGRZwD-w?si=xVaqcl3LBT2wq6j0)
 
 [Lecture on Fab Functioning](https://www.youtube.com/live/LbMaiI1pGBU?si=4kaKbJ9JUzNVzB-j)
