@@ -1,3 +1,4 @@
+Watch the following NPTEL Lectures, and check the demonstration and slides, do make notes of your learnings. Then follow the Purdue course on priority as this will be unavailable on 24 Dec and there are good amount of lectures to cover.
 
 [Complete Process Demostration](https://www.tel.com/museum/exhibition/process/)
 
