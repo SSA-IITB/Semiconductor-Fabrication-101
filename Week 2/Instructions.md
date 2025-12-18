@@ -25,3 +25,5 @@ Please consider watching rest of the lectures carefully till Packaging by 20 Dec
 Semiconductor Short
 
 [Glossary](https://www.youtube.com/watch?v=wLapllZBBv0)
+
+[Packaging](https://youtu.be/3mBTVn2KdHY?si=IIX0fCfTn-OCK3Jr)
